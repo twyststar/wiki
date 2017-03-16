@@ -1,0 +1,35 @@
+li {
+  border: 0px 1px 1px 1px;
+  border-color: blue;
+}
+.navbar-default {
+  border-color: blue;
+}
+
+.col-lg-7 {
+  border: 1px solid #e8e9ea;
+  background-color: #f0ffed;
+}
+
+.col-lg-5 {
+  border: 1px solid #e8e9ea;
+  background-color: #f2fcff;
+  height: 100%;
+}
+
+.welcome {
+  border: 1px solid #e8e9ea;
+}
+
+.row {
+  border: 1px solid #e8e9ea;
+}
+.violet {
+  background-color: #cda4f4;
+}
+.lav {
+  background-color: #eddbff;
+}
+ .red {
+   background-color: #fcefef;
+ }
