@@ -19,6 +19,7 @@ li {
 
 .welcome {
   border: 1px solid #e8e9ea;
+  background-color: #f7f7f7;
 }
 
 .row {
@@ -33,3 +34,21 @@ li {
  .red {
    background-color: #fcefef;
  }
+.sidebar {
+  padding-right: 2px;
+  line-height: 2em;
+  background-color: #f7f7f7;
+}
+  .aaron {
+    height: 50px;
+    width: auto;
+    float: right;
+  }
+.star {
+  float: left;
+  height: 50px;
+  width: auto;
+}
+.floatright {
+  float: right;
+}
